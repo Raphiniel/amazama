@@ -114,21 +114,118 @@ const Body = () => {
         <h1>About</h1>
         <div className="aboutInside">
           <div className="aboutP">
-            <p>The About Page.I will ask, what do you want to know about me?</p>
-            <p>
-              Hi, I’m Raphiniel, a freelance web developer and designer with
-              over 12 months of experience in creating stunning websites for
-              small businesses and entrepreneurs
+          <p>
+            Greetings, wanderers of the digital realm! Step into my virtual sanctuary, where creativity unfolds and passions ignite. I am Raphiniel, your guide through a realm abundant with artistic wonders. Within these pixelated walls, I invite you to immerse yourself in the tapestry of my creative work, where visions come to life and dreams take flight. From mesmerizing visual art to captivating written tales, I offer a glimpse into the depths of my soul. So, fasten your seatbelts, for we embark on a thrilling journey where imagination knows no bounds, and together, we shall traverse the realms of artistic brilliance. Welcome to my digital abode, where inspiration awaits at every click.
             </p>
+            <p>Within the sacred sanctuary of the gym, where determination and resilience converge, a captivating symphony of motion known as working out unfolds. It is a realm where the body becomes a conduit, channeling its inner fire, while burdens melt away and muscles awaken with newfound vitality.
+
+            </p>
+            <p>
+            With each deliberate step, a bond is forged between mind and muscle, as the journey of self-discovery takes hold. Through sweat and struggle, an exhilarating euphoria blossoms—the sweet embrace of personal transformation and the unwavering belief in our ability to transcend limitations. In this timeless pursuit, the temple of the body becomes an enchanting ode, where we sculpt our destinies and awaken the power to shape our lives, one rep at a time.
+            </p>
+            <p>
+              Simply put "I love working out".
+            </p>
+          </div>
+          <div className="rightC">
+          <div className="aboutImg">
+            <img
+              src="images\IMG_0739.JPG"
+              alt=""
+              width="100px"
+              height="100px"
+            />
+            <div className="aboutImg">
+            <img
+              src="images\download (2).jpeg"
+              alt=""
+              width="100px"
+              height="100px"
+            />
+            <div className="aboutImg">
+            <img
+              src="images\images (1).jpeg"
+              alt=""
+              width="100px"
+              height="100px"
+            />
+            <div className="aboutImg">
+            <img
+              src="images\images (2).jpeg"
+              alt=""
+              width="100px"
+              height="100px"
+            />
+          </div>
+          <div className="aboutImg">
+            <img
+              src="images\pngtree-cyan-background-high-quality-wallpaper-victor-blue-yellow-free-image_1074104.jpg"
+              alt=""
+              width="100px"
+              height="100px"
+            />
           </div>
           <div className="aboutImg">
             <img
               src="images\IMG_0739.JPG"
               alt=""
-              width="400px"
-              height="400px"
+              width="100px"
+              height="100px"
             />
           </div>
+          <div className="aboutImg">
+            <img
+              src="images\images (2).jpeg"
+              alt=""
+              width="100px"
+              height="100px"
+            />
+          </div>
+          <div className="aboutImg">
+            <img
+              src="images\pngtree-cyan-background-high-quality-wallpaper-victor-blue-yellow-free-image_1074104.jpg"
+              alt=""
+              width="100px"
+              height="100px"
+            />
+          </div>
+          <div className="aboutImg">
+            <img
+              src="images\images (2).jpeg"
+              alt=""
+              width="100px"
+              height="100px"
+            />
+          </div>
+          <div className="aboutImg">
+            <img
+              src="images\pngtree-cyan-background-high-quality-wallpaper-victor-blue-yellow-free-image_1074104.jpg"
+              alt=""
+              width="100px"
+              height="100px"
+            />
+          </div>
+          <div className="aboutImg">
+            <img
+              src="images\images (2).jpeg"
+              alt=""
+              width="100px"
+              height="100px"
+            />
+          </div>
+          <div className="aboutImg">
+            <img
+              src="images\pngtree-cyan-background-high-quality-wallpaper-victor-blue-yellow-free-image_1074104.jpg"
+              alt=""
+              width="100px"
+              height="100px"
+            />
+          </div>
+          
+          </div>
+          </div>
+          </div>
+        </div>
         </div>
       </div>
       <div className="workouts">
