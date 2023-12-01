@@ -64,7 +64,10 @@ const Body = () => {
         <p>
           l am coming back stronger...give me 48 hours. Anyways friends don't forget to keep fighting.Yours Truly...Sir Raphiniel <strong>The Black Shinobi</strong>
         </p>
+       
         </p>
+        <h1>Friday | 1 December 2023</h1>
+        <p>Firstly...Happy New Month!!</p>
       </div>
       <div className="container">
         <div className="leftContainer">
