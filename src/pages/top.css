@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    background-color: rgb(184, 168, 168);
+    text-decoration: none;
+    /* text-decoration: none; */
+    /* rgb(221, 208, 208) */
+    /* background-image: url(C:\Users\DELL\Desktop\Zanpakto\zanpakto\public\images\IMG_0739.JPG);
+    background-size: cover;
+    background-repeat: no-repeat; */
+}
+
+.top {
+    display: flex;
+    flex-direction: column;
+
+
+    .bottomTop{
+        padding-top:200px;
+        padding-bottom: 150px;
+        
+    }
+    
+
+    #logo{
+        font-style: italic;
+        font-family: serif;
+        font-size: 100px;
+        padding: 10px;
+        /* z-index: -1; */
+        position: sticky;
+        top: 0;
+        left: 0;
+        cursor: pointer;
+
+        a{
+            text-decoration: none;
+            color: black;
+        }
+    }
+
+    #logo:active{
+        color: blue;
+        /* transition: linear 0.3s; */
+    }
+    
+    .welcomeText{
+        font-size: 100px;
+        padding: 10px;
+        
+    }
+
+    .buttons{
+        padding: 10px;
+
+        #aboutBtn{
+            padding:10px 40px;
+            margin-right: 20px;
+            margin-left: 20px;
+            border-radius: 30px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            font-size: 20px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.54);
+            border: 0;
+            a{
+                padding: 10px 20px;
+            }
+        }
+        #aboutBtn:hover{
+            background-color: black;
+            color: #fff;
+            transition: ease-in-out 0.4s;
+            cursor: pointer;
+        }
+        #aboutBtn:active{
+            background-color:crimson;
+            transition: 0.5s;
+        }
+
+        #emailMeBtn{
+            padding: 10px 40px;
+            border-radius: 30px;
+            font-size: 20px;
+            box-shadow: 0 0 10px black;
+            background-color: black;
+            color: #fff;
+            border: 0;
+        }
+        #emailMeBtn:hover{
+            transition: ease-in-out 0.4s;
+            cursor: pointer;
+            background-color: white;
+            color: black;
+        }
+        #emailMeBtn:active{
+            background-color: crimson;
+            transition: 0.1s;
+        }
+
+    }
+}
+#go{
+    text-decoration: none;
+    a{
+        text-decoration: none;
+    }
+}
+#go:active{
+    transition: 0.5s;
+}
+
+/* @media (min-width:500px){
+    .welcomeText{
+        font-size: 20px;
+    }
+} */
