@@ -7,7 +7,7 @@
     margin-bottom: 200px;
     /* background-color: yellow; */
     min-height: 100vh;
-    box-shadow: 0 0 40px red;
+    box-shadow: 0 0 40px yellow;
 
     h1{
         padding: 20px;
@@ -24,7 +24,7 @@
     margin: 40px;
     padding:10px;
     border-radius: 10px;
-    box-shadow: 0 0 30px red;
+    box-shadow: 0 0 30px yellow;
     /* display: flex; */
 
     .aboutInside{
@@ -96,7 +96,8 @@
         line-height: 80px;
         color: purple;
         border-radius: 10px;
-        background-color: yellow;
+        /* background-color: yellow; */
+        background-color: chartreuse;
         margin: 30px;
         padding: 20px;
         text-align: center;
@@ -147,7 +148,7 @@
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             padding: 10px;
             font-style: italic;
-            background-color: yellow;
+            background-color: cadetblue;
             align-items: center;
         }
     }
