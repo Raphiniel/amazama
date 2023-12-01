@@ -12,10 +12,31 @@ const Footerz = () => {
           </video>
         </div> */}
         <footer id="go">
-          <div>
-            <marquee behavior="scroll" direction="right" scrollamount="10">
+          {/* <br />
+          <br />
+          <br />
+          <br /> */}
+          <div className="footer-items">
+            <div className="socials">
+              <h1>Socials</h1>
+              <a href="#">Instagram</a>
+              <a href="#">Twitter</a>
+              <a href="#">Youtube</a>
+            </div>
+            <div className="contacts">
+              <h1>Contacts</h1>
+              <h3>contact: +263 783 607 500</h3>
+              <h3>business: +263 718 078 132</h3>
+            </div>
+            <div className="other">
+              <h1>Emails</h1>
+              <h3>Email1:raphinielr@gmail.com</h3>
+              <h3>Email2:raphinielrmurwira@gmail.com</h3>
+            </div>
+
+            {/* <marquee behavior="scroll" direction="right" scrollamount="10">
             <h1>Well this is the bottom</h1>
-            </marquee>
+            </marquee> */}
            
           </div>
           {/* <div className="leftContainer">
@@ -29,6 +50,7 @@ const Footerz = () => {
               <h1>CONTENT COMING SOON!</h1>
             </marquee> */}
           {/* </div> */}
+         
         </footer>
       </div>
     </>

@@ -58,13 +58,18 @@ const Body = () => {
           <strong> Oh yeah, and there's a Taku.</strong>See you tommorow.
         </p>
         <h1>Blog | Thursday 30 November 2023</h1>
-        <p>It's finally today. Let's skip the nitty gritties.... <strong>l am playing with school</strong>
-        l didn't read for a math exam l had today... guess what, l wrote nothing. Yes you heard me... <strong>NOTHING.</strong>
-        Nevertheless, l don't ever quit, l have a Schlieffen Plan to bombard my facilitator to allow me to retake all the tests.
         <p>
-          l am coming back stronger...give me 48 hours. Anyways friends don't forget to keep fighting.Yours Truly...Sir Raphiniel <strong>The Black Shinobi</strong>
-        </p>
-       
+          It's finally today. Let's skip the nitty gritties....{" "}
+          <strong>l am playing with school</strong>l didn't read for a math exam
+          l had today... guess what, l wrote nothing. Yes you heard me...{" "}
+          <strong>NOTHING.</strong>
+          Nevertheless, l don't ever quit, l have a Schlieffen Plan to bombard
+          my facilitator to allow me to retake all the tests.
+          <p>
+            l am coming back stronger...give me 48 hours. Anyways friends don't
+            forget to keep fighting.Yours Truly...Sir Raphiniel{" "}
+            <strong>The Black Shinobi</strong>
+          </p>
         </p>
         <h1>Friday | 1 December 2023</h1>
         <p>Firstly...Happy New Month!!</p>
@@ -77,13 +82,23 @@ const Body = () => {
             Hi, I’m Raphiniel, a software developer and an artist. I love creating things that make people happy, whether it’s a website, a game, a painting, or a song. I have a passion for learning new skills and technologies, and I enjoy challenging my mind with puzzles and problems.
             </p> */}
           <p className="aboutText">
-            Oh,podcast. In case of any unexpected incidents of my
-            succumbing.There is nothing l would love more than to leave
-            something for my friends and family.
+            Oh yeah, I'm diving headfirst into the captivating realm of
+            podcasting. But here's the twist: in the unlikely event of my
+            untimely demise, I refuse to let my voice fade away. I'm determined
+            to leave a blazing trail, an auditory legacy that will resonate
+            through the ages. So buckle up, because this podcast isn't just an
+            ordinary audio adventure—it's an electrifying testament, a sonic
+            time capsule that will immortalize my thoughts, passions, and
+            stories. Death may claim my physical being, but my words will echo
+            defiantly, cascading through the airwaves, igniting minds, and
+            inspiring souls
           </p>
           <p className="aboutText">
-            The content l am to provide is heartfelt. We are going
-            somewhere.Stay strong...
+            This is my gift to the world, an audacious reminder that even in the
+            face of mortality, the power of my voice will endure, transcending
+            time and space. Get ready, because this podcast is an invitation to
+            join me on an extraordinary journey—one that will leave an indelible
+            mark long after I'm gone.
           </p>
         </div>
         <div className="rightContainer">
@@ -97,7 +112,24 @@ const Body = () => {
         <div className="leftContainer">
           <h1>Programming and Youtube</h1>
           <p className="aboutText">
-            The links for the programming channel are to be provided.
+            YouTube, prepare to witness the birth of a dynamic creator embarking
+            on a thrilling visual odyssey. Brace yourself for a kaleidoscope of
+            captivating content as I unveil my daily vlogs, an electrifying
+            symphony of sights and sounds that will transport you to the heart
+            of my extraordinary adventures. From breathtaking landscapes to
+            pulsating cityscapes, from intimate glimpses into my personal life
+            to awe-inspiring encounters with remarkable individuals, each pixel
+            will pulsate with the essence of my unyielding passion.
+          </p>
+          <p className="aboutText">
+            With every upload, I will shatter the boundaries of conventional
+            storytelling, weaving together a tapestry of cinematic brilliance
+            that will enrapture your senses and leave you yearning for more. So
+            fasten your seatbelts, click that subscribe button, and prepare to
+            embark on a rollercoaster ride of exhilaration, inspiration, and
+            unfiltered authenticity. Welcome to my YouTube channel, where the
+            ordinary becomes extraordinary, and each frame is a testament to the
+            boundless potential of human creativity.
           </p>
           {/* <p className="aboutText">
             Hi, I’m Raphiniel, a software developer and an artist. I love creating things that make people happy, whether it’s a website, a game, a painting, or a song. I have a passion for learning new skills and technologies, and I enjoy challenging my mind with puzzles and problems.
@@ -114,118 +146,136 @@ const Body = () => {
         <h1>About</h1>
         <div className="aboutInside">
           <div className="aboutP">
-          <p>
-            Greetings, wanderers of the digital realm! Step into my virtual sanctuary, where creativity unfolds and passions ignite. I am Raphiniel, your guide through a realm abundant with artistic wonders. Within these pixelated walls, I invite you to immerse yourself in the tapestry of my creative work, where visions come to life and dreams take flight. From mesmerizing visual art to captivating written tales, I offer a glimpse into the depths of my soul. So, fasten your seatbelts, for we embark on a thrilling journey where imagination knows no bounds, and together, we shall traverse the realms of artistic brilliance. Welcome to my digital abode, where inspiration awaits at every click.
-            </p>
-            <p>Within the sacred sanctuary of the gym, where determination and resilience converge, a captivating symphony of motion known as working out unfolds. It is a realm where the body becomes a conduit, channeling its inner fire, while burdens melt away and muscles awaken with newfound vitality.
-
+            <p>
+              Greetings, wanderers of the digital realm! Step into my virtual
+              sanctuary, where creativity unfolds and passions ignite. I am
+              Raphiniel, your guide through a realm abundant with artistic
+              wonders. Within these pixelated walls, I invite you to immerse
+              yourself in the tapestry of my creative work, where visions come
+              to life and dreams take flight. From mesmerizing visual art to
+              captivating written tales, I offer a glimpse into the depths of my
+              soul. So, fasten your seatbelts, for we embark on a thrilling
+              journey where imagination knows no bounds, and together, we shall
+              traverse the realms of artistic brilliance. Welcome to my digital
+              abode, where inspiration awaits at every click.
             </p>
             <p>
-            With each deliberate step, a bond is forged between mind and muscle, as the journey of self-discovery takes hold. Through sweat and struggle, an exhilarating euphoria blossoms—the sweet embrace of personal transformation and the unwavering belief in our ability to transcend limitations. In this timeless pursuit, the temple of the body becomes an enchanting ode, where we sculpt our destinies and awaken the power to shape our lives, one rep at a time.
+              Within the sacred sanctuary of the gym, where determination and
+              resilience converge, a captivating symphony of motion known as
+              working out unfolds. It is a realm where the body becomes a
+              conduit, channeling its inner fire, while burdens melt away and
+              muscles awaken with newfound vitality.
             </p>
             <p>
-              Simply put "I love working out".
+              With each deliberate step, a bond is forged between mind and
+              muscle, as the journey of self-discovery takes hold. Through sweat
+              and struggle, an exhilarating euphoria blossoms—the sweet embrace
+              of personal transformation and the unwavering belief in our
+              ability to transcend limitations. In this timeless pursuit, the
+              temple of the body becomes an enchanting ode, where we sculpt our
+              destinies and awaken the power to shape our lives, one rep at a
+              time.
             </p>
+            <p>Simply put "I love working out".</p>
           </div>
           <div className="rightC">
-          <div className="aboutImg">
-            <img
-              src="images\IMG_0739.JPG"
-              alt=""
-              width="100px"
-              height="100px"
-            />
             <div className="aboutImg">
-            <img
-              src="images\download (2).jpeg"
-              alt=""
-              width="100px"
-              height="100px"
-            />
-            <div className="aboutImg">
-            <img
-              src="images\images (1).jpeg"
-              alt=""
-              width="100px"
-              height="100px"
-            />
-            <div className="aboutImg">
-            <img
-              src="images\images (2).jpeg"
-              alt=""
-              width="100px"
-              height="100px"
-            />
+              <img
+                src="images\IMG_0739.JPG"
+                alt=""
+                width="100px"
+                height="100px"
+              />
+              <div className="aboutImg">
+                <img
+                  src="images\download (2).jpeg"
+                  alt=""
+                  width="100px"
+                  height="100px"
+                />
+                <div className="aboutImg">
+                  <img
+                    src="images\images (1).jpeg"
+                    alt=""
+                    width="100px"
+                    height="100px"
+                  />
+                  <div className="aboutImg">
+                    <img
+                      src="images\images (2).jpeg"
+                      alt=""
+                      width="100px"
+                      height="100px"
+                    />
+                  </div>
+                  <div className="aboutImg">
+                    <img
+                      src="images\pngtree-cyan-background-high-quality-wallpaper-victor-blue-yellow-free-image_1074104.jpg"
+                      alt=""
+                      width="100px"
+                      height="100px"
+                    />
+                  </div>
+                  <div className="aboutImg">
+                    <img
+                      src="images\IMG_0739.JPG"
+                      alt=""
+                      width="100px"
+                      height="100px"
+                    />
+                  </div>
+                  <div className="aboutImg">
+                    <img
+                      src="images\images (2).jpeg"
+                      alt=""
+                      width="100px"
+                      height="100px"
+                    />
+                  </div>
+                  <div className="aboutImg">
+                    <img
+                      src="images\pngtree-cyan-background-high-quality-wallpaper-victor-blue-yellow-free-image_1074104.jpg"
+                      alt=""
+                      width="100px"
+                      height="100px"
+                    />
+                  </div>
+                  <div className="aboutImg">
+                    <img
+                      src="images\images (2).jpeg"
+                      alt=""
+                      width="100px"
+                      height="100px"
+                    />
+                  </div>
+                  <div className="aboutImg">
+                    <img
+                      src="images\pngtree-cyan-background-high-quality-wallpaper-victor-blue-yellow-free-image_1074104.jpg"
+                      alt=""
+                      width="100px"
+                      height="100px"
+                    />
+                  </div>
+                  <div className="aboutImg">
+                    <img
+                      src="images\images (2).jpeg"
+                      alt=""
+                      width="100px"
+                      height="100px"
+                    />
+                  </div>
+                  <div className="aboutImg">
+                    <img
+                      src="images\pngtree-cyan-background-high-quality-wallpaper-victor-blue-yellow-free-image_1074104.jpg"
+                      alt=""
+                      width="100px"
+                      height="100px"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
-          <div className="aboutImg">
-            <img
-              src="images\pngtree-cyan-background-high-quality-wallpaper-victor-blue-yellow-free-image_1074104.jpg"
-              alt=""
-              width="100px"
-              height="100px"
-            />
-          </div>
-          <div className="aboutImg">
-            <img
-              src="images\IMG_0739.JPG"
-              alt=""
-              width="100px"
-              height="100px"
-            />
-          </div>
-          <div className="aboutImg">
-            <img
-              src="images\images (2).jpeg"
-              alt=""
-              width="100px"
-              height="100px"
-            />
-          </div>
-          <div className="aboutImg">
-            <img
-              src="images\pngtree-cyan-background-high-quality-wallpaper-victor-blue-yellow-free-image_1074104.jpg"
-              alt=""
-              width="100px"
-              height="100px"
-            />
-          </div>
-          <div className="aboutImg">
-            <img
-              src="images\images (2).jpeg"
-              alt=""
-              width="100px"
-              height="100px"
-            />
-          </div>
-          <div className="aboutImg">
-            <img
-              src="images\pngtree-cyan-background-high-quality-wallpaper-victor-blue-yellow-free-image_1074104.jpg"
-              alt=""
-              width="100px"
-              height="100px"
-            />
-          </div>
-          <div className="aboutImg">
-            <img
-              src="images\images (2).jpeg"
-              alt=""
-              width="100px"
-              height="100px"
-            />
-          </div>
-          <div className="aboutImg">
-            <img
-              src="images\pngtree-cyan-background-high-quality-wallpaper-victor-blue-yellow-free-image_1074104.jpg"
-              alt=""
-              width="100px"
-              height="100px"
-            />
-          </div>
-          
-          </div>
-          </div>
-          </div>
-        </div>
         </div>
       </div>
       <div className="workouts">
