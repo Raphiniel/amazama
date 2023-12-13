@@ -11,6 +11,13 @@ const Body = () => {
         <p>
           l learnt something thrilling today. The level of it's correctness l am yet to evaluate. Here it is... "The things you put less effort in tend to corelate towards you."
         </p>
+        <p>
+          Anyways, let's move on.... 
+        </p>
+        <p>
+          l want to introduce you to a girl named Takudzwa. Yes l know, l been keeping her a secret for a minute now. Well she is ....
+          
+        </p>
         <h1>Blog</h1>
         <p>
           l have no idea what to say .Occassionally l think there are{" "}
