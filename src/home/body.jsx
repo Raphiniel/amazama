@@ -6,7 +6,10 @@ const Body = () => {
       <div className="blog">
         <h1>Wednesday 13 December 2023</h1>
         <p>
-          People people people, let's get this thing rollin. Today is the day. We are finally done with our exams...
+          People people people, let's get this thing rollin. Today is the day. We are finally done with our exams...The time has come for the <strong>LAD</strong> to focus.
+        </p>
+        <p>
+          l learnt something thrilling today. The level of it's correctness l am yet to evaluate. Here it is... "The things you put less effort in tend to corelate towards you."
         </p>
         <h1>Blog</h1>
         <p>
