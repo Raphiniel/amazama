@@ -1,0 +1,33 @@
+/* back-to-top {
+    margin: 50px;
+} */
+
+button {
+    /* margin: 40px;
+    padding: 20px;
+    font-size: 25px;
+    width: 90%;
+    border-radius: 10px;
+    background-color: chartreuse;
+    overflow: hidden;
+    font-weight: bold;
+    position: sticky;
+        top: 0;
+        left: 0; */
+        cursor: pointer;
+        padding:10px 40px;
+            margin-right: 20px;
+            margin-left: 40px;
+            border-radius: 30px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            font-size: 20px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.54);
+            border: 0;
+}
+
+button:hover{
+    background-color: black;
+    color: crimson;
+    transition: 0.3s;
+}
