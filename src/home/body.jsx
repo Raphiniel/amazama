@@ -4,6 +4,10 @@ const Body = () => {
   return (
     <>
       <div className="blog">
+        <h1>Wednesday 13 December 2023</h1>
+        <p>
+          People people people, let's get this thing rollin. Today is the day. We are finally done with our exams...
+        </p>
         <h1>Blog</h1>
         <p>
           l have no idea what to say .Occassionally l think there are{" "}
