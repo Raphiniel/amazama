@@ -28,6 +28,6 @@ button {
 
 button:hover{
     background-color: black;
-    color: crimson;
+    color: #fff;
     transition: 0.3s;
 }

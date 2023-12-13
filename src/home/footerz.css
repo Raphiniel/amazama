@@ -20,6 +20,7 @@ footer {
     margin-left: auto;
     margin-right: auto;
     border-radius: 10px;
+    background-color: chartreuse;
 
 }
 
@@ -32,7 +33,7 @@ footer {
     border-radius: 10px;
     display: flex;
     flex-direction: column;
-    background-color: yellow;
+    background-color: #fff;
     
     a{
         padding: 10px;
@@ -40,9 +41,9 @@ footer {
         margin: 10px;
         border: solid 1px;
         border-radius: 5px;
-        background-color: crimson;
+        background-color: chartreuse;
         font-size: 25px;
-        color: white;
+        color: black;
     }
 }
 
@@ -53,13 +54,13 @@ footer {
     /* border: solid red 2px; */
     padding: 10px;
     border-radius: 10px;
-    background-color: yellow;
+    background-color: #fff;
 
     h3{
         margin: 40px 10px;
         font-size: 25px;
-        background-color: crimson;
-        color: white;
+        background-color: chartreuse;
+        color: black;
     }
 }
 
@@ -70,13 +71,13 @@ footer {
     /* border: solid red 2px; */
     padding: 10px;
     border-radius: 10px;
-    background-color: yellow;
+    background-color: #fff;
 
     h3{
         margin: 20px 10px;
         font-size: 20px;
-        background-color: crimson;
-        color: white;
+        background-color: chartreuse;
+        color: black;
     }
 }
 
@@ -127,9 +128,9 @@ footer {
             margin: 5px;
             border: solid 1px;
             border-radius: 5px;
-            background-color: crimson;
+            background-color: chartreuse;
             font-size: 15px;
-            color: white;
+            color: black;
             overflow: auto;
         }
     }
@@ -150,8 +151,8 @@ footer {
         h3{
             margin: 10px 10px;
             font-size: 10px;
-            background-color: crimson;
-            color: white;
+            background-color:chartreuse;
+            color: black;
         }
     }
     
@@ -171,8 +172,8 @@ footer {
         h3{
             margin: 20px 10px;
             font-size: 10px;
-            background-color: crimson;
-            color: white;
+            background-color: chartreuse;
+            color: black;
         }
     }
 }
