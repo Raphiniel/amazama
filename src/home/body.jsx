@@ -4,7 +4,7 @@ const Body = () => {
   return (
     <>
       <div className="blog">
-        <h1>Wednesday 13 December 2023</h1>
+        {/* <h1>Wednesday 13 December 2023</h1>
         <p>
           People people people, let's get this thing rollin. Today is the day. We are finally done with our exams...The time has come for the <strong>LAD</strong> to focus.
         </p>
@@ -17,7 +17,7 @@ const Body = () => {
         <p>
           l want to introduce you to a girl named Takudzwa. Yes l know, l been keeping her a secret for a minute now. Well she is ....
           
-        </p>
+        </p> */}
         <h1>Blog</h1>
         <p>
           l have no idea what to say .Occassionally l think there are{" "}
@@ -35,7 +35,7 @@ const Body = () => {
           lovely day. Stay blessed. Like always my friends, today is going to be
           a good day.
         </p>
-        <h1>Today's Blog : Monday 27 November 2023</h1>
+        {/* <h1>Today's Blog : Monday 27 November 2023</h1>
         <p>
           <strong>Enjoy Your life.</strong> That is the topic for the
           day.Listen, l woke up today feeling like not working out.Full
@@ -86,7 +86,7 @@ const Body = () => {
           </p>
         </p>
         <h1>Friday | 1 December 2023</h1>
-        <p>Firstly...Happy New Month!!</p>
+        <p>Firstly...Happy New Month!!</p> */}
       </div>
       <div className="container">
         <div className="leftContainer">
